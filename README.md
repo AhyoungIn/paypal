@@ -1,4 +1,4 @@
-<img src="https://www.paypal.com/webapps/mpp/paypal-popup?v=3&s=200" title="icecream_museum" alt="icecream_museum">
+<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" border="0"?v=3&s=200" title="paypal_demo" alt="paypal_demo">
 
 # Paypal demo
 

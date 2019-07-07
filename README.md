@@ -1,11 +1,16 @@
+<img src="https://www.paypal.com/webapps/mpp/paypal-popup?v=3&s=200" title="icecream_museum" alt="icecream_museum">
 
-# Paypal
+# Paypal demo
 
-Hi, this is a webpage testing paypal.
+## Description
+Created sample paypal payment system using php
 
-## Live webpage
+## Technology
 
-Live website can be shown -> [Live website](http://ahyoung.in/paypal).
+- HTML
+- CSS
+- PHP
+- JavaScript
 
 ## Contents
 Paypal, buy something

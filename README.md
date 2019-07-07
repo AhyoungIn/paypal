@@ -1,4 +1,4 @@
-<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg?v=3&s=200" title="paypal_demo" alt="paypal_demo">
+<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" title="paypal_demo" alt="paypal_demo">
 
 # Paypal demo
 
